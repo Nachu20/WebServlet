@@ -1,0 +1,78 @@
+body{
+    width: 100px;
+    height: 100px;
+    background-image: url("s4.jpg");
+    background-size: 1540px 800px;
+}
+h1{
+    position:absolute;
+    top:10%;
+    left:50%;
+    color:#976397;
+}
+h3{
+    position:absolute;
+    top:19%;
+    left:40%;
+    color:#9222CA;
+}
+.p1{
+    position:absolute;
+    top:28%;
+    left:48.5%;
+    color:black; 
+}
+.userName{
+    position:absolute;
+    top:32%;
+    left:48.5%;
+    color:black;
+    border: 2px solid blue;
+
+}
+.p2{
+    position:absolute;
+    top:38%;
+    left:48.5%;
+    color:black;
+}
+.email{
+    position:absolute;
+    top:42%;
+    left:48.5%;
+    color:black;
+    border: 2px solid blue;
+}
+.p3{
+    position:absolute;
+    top:48%;
+    left:48.5%;
+    color:black;
+}
+.password{
+    position:absolute;
+    top:52%;
+    left:48.5%;
+    color:black;
+    border: 2px solid blue;
+}
+.btn{
+    position:absolute;
+    top:58%;
+    left:48.5%;
+    cursor: pointer;
+    border: 2px solid blue;
+    
+}
+.p4{
+    position:absolute;
+    top:68%;
+    left:48.5%;
+    color:blue;
+}
+h5{
+    position:absolute;
+    top:62%;
+    left:48.5%;
+    color:black;
+}
